@@ -41,7 +41,7 @@ e.g.:
 
 `callback` will be called with two arguments. Error (if any) will be the first, result will be second.
 
-Both arguments will be of type `object`. Result will map to `meta` section of [API response](https://urlmeta.org/dev-api.html#response).
+Both arguments will be of type `object`. Result will contain the complete [API response](https://urlmeta.org/dev-api.html#response).
 
 ## Examples
 
